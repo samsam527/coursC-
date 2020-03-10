@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1583849654 source:c:\users\samuel dahan\desktop\exo1\main.cpp
+	<iostream>
+	"matrice.h"
+
+1583848481 c:\users\samuel dahan\desktop\exo1\include\matrice.h
+
+1583849849 source:c:\users\samuel dahan\desktop\exo1\src\matrice.cpp
+	"matrice.h"
+	<iostream>
+	<cstdlib>
+
