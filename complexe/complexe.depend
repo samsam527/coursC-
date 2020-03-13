@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1582642861 source:c:\users\samuel dahan\desktop\complexe\src\complexe.cpp
+	"complexe.h"
+	<iostream>
+	<math.h>
+
+1583533756 c:\users\samuel dahan\desktop\complexe\include\complexe.h
+
+1582643907 source:c:\users\samuel dahan\desktop\complexe\main.cpp
+	<iostream>
+	"complexe.h"
+
